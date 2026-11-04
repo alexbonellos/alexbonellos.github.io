@@ -247,3 +247,6 @@ footer .wrap { display: flex; justify-content: space-between; flex-wrap: wrap; g
 .article ul { padding-left: 22px; }
 .article li { margin-bottom: 8px; }
 .note { background: var(--paper-2); border: 1px solid var(--line); border-radius: 8px; padding: 18px 22px; font-size: 0.92rem; color: var(--ink-2); margin: 28px 0; }
+
+.resume-img { max-width: 880px; margin: 0 auto; padding: 0; background: #fff; border: 1px solid var(--line); border-radius: 4px; box-shadow: 0 30px 60px -40px rgba(12, 35, 75, 0.35); }
+.resume-img img { width: 100%; height: auto; }
